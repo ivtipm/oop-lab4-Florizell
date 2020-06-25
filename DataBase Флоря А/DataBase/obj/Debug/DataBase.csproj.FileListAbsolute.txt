@@ -1,0 +1,20 @@
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\asus\Downloads\oop-lab4-TseplyaevAF-master\Tseplyaev\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\bin\Debug\DataBase.exe
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\bin\Debug\DataBase.pdb
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.exe
+C:\Users\asus\Downloads\DataBase Флоря А\DataBase\obj\Debug\DataBase.pdb
